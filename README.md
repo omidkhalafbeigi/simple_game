@@ -1,1 +1,1 @@
-# simple_game
+# A Simple Game Implementation using "Ursina" Game Engine.
